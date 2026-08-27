@@ -563,10 +563,6 @@ Join the mission! Here's how:
    </b></td>  
 </tr>  
 
-<tr>  
-<td><img src="https://github.com/user-attachments/assets/1fedb318-03d9-4cd6-8b40-20714cb53b48" alt="🔗 LinkedIn Job Scraper (Search Results)" width="500px"></td>  
-<td><img src="https://github.com/user-attachments/assets/46081404-8cad-4d72-b921-e98103b9918e" alt="🏢 LinkedIn Scraper (Job Listings UI)" width="500px"></td>  
-</tr>  
 
 </table>  
 </div>  
