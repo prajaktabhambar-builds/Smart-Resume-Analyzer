@@ -1,0 +1,6 @@
+services:
+  smartairesumeanalyzer:
+    image: smartairesumeanalyzer
+    build:
+      context: .
+      dockerfile: ./Dockerfile
